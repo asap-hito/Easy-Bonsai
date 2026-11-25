@@ -97,6 +97,16 @@ footer {
   text-align: center;
 }
 
+.content h2, .content p {
+  z-index: 999;
+}
+
+.content img {
+  display: block;
+  width: 100%;
+  z-index: 1;
+}
+
 footer {
   background-color: var(--primary-color);
 }
