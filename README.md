@@ -20,6 +20,8 @@ TESTING
 Getting the cards to display the image and text in the desired way took some time to accomplish despite being quite simple. I wouldn't exactly call it a 
 bug, though I can say it took several frustrated attempts to solve. 
 
+Adaptive screen size is frustratingly not working.
+
 This is a very simple site, the first one I've ever made, and on a time-line at that,
 so the opportunity for bugs is rather low.
 
