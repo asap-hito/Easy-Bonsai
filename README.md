@@ -1,3 +1,5 @@
+!!SEE DEPLOYMENT FOR SITE LINK!!
+
 So the question that needs answered here is: Why this site? And while there are countless florid answers to explain why a new website needs to exist, 
 the simple answer to why Easy Bonsai needs to exist is the very obvious: Entry level sites on this hobby are hard to read, hard to look at, and very 
 difficult to call "entry level". It's a hobby with a lot of elitism, it makes a lot of assumptions about the hobbyist's knowledge. The only 'user story' 
@@ -20,3 +22,8 @@ bug, though I can say it took several frustrated attempts to solve.
 
 This is a very simple site, the first one I've ever made, and on a time-line at that,
 so the opportunity for bugs is rather low.
+
+DEPLOYMENT
+
+Site is deployed through Github pages. It can be reached at:
+  https://asap-hito.github.io/Easy-Bonsai/
